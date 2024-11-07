@@ -1,183 +1,120 @@
 <div align="center">
 
-# 🔗 Osiyomeoh | Blockchain & Backend Engineer 🚀
-
-> Backend Engineer | Blockchain Developer | System Architect
+# ⚡ Osiyomeoh ⚡
+## Backend Engineer & Blockchain Developer
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🎯 Professional Focus
 
-```typescript
-// Developer.ts
-class Developer {
-    private readonly name = "Osiyomeoh";
-    private readonly role = "Backend & Blockchain Engineer";
-    
-    public getTechStack(): TechnologyStack {
-        return {
-            backend: {
-                node: ["NestJS", "Express", "TypeScript"],
-                databases: ["PostgreSQL", "MongoDB", "Redis"],
-                patterns: ["Microservices", "REST", "GraphQL"]
-            },
-            blockchain: {
-                smartContracts: ["Solidity", "Web3.js", "Ethers.js"],
-                frameworks: ["Hardhat", "Truffle", "OpenZeppelin"],
-                protocols: ["DeFi", "ERC Standards", "Layer 2"]
-            }
-        };
-    }
-
-    public getCurrentFocus(): string[] {
-        return [
-            "Building Scalable Backend Services",
-            "Developing Secure Smart Contracts",
-            "Optimizing System Architecture"
-        ];
-    }
-}
-```
+| Domain | Specialization |
+|--------|----------------|
+| 🔹 Backend | NestJS, Node.js, System Architecture |
+| 🔹 Blockchain | Smart Contracts, DeFi Protocols |
+| 🔹 Databases | PostgreSQL, MongoDB, Redis |
 
 ---
 
-### 🛠️ Technology Arsenal 
+### 💻 Technical Skills
 
-```
-Backend Development
-├─ Core
-│  ├─ Node.js
-│  ├─ NestJS
-│  ├─ Express.js
-│  └─ TypeScript
-├─ Databases
-│  ├─ PostgreSQL
-│  ├─ MongoDB
-│  └─ Redis
-└─ Architecture
-   ├─ Microservices
-   ├─ REST APIs
-   └─ GraphQL
+#### Backend Development
+| Technology | Expertise Level |
+|------------|----------------|
+| NestJS | ⭐⭐⭐⭐⭐ |
+| Node.js | ⭐⭐⭐⭐ |
+| TypeScript | ⭐⭐⭐⭐ |
+| Express.js | ⭐⭐⭐⭐ |
+| PostgreSQL | ⭐⭐⭐⭐ |
+| MongoDB | ⭐⭐⭐⭐ |
+| Redis | ⭐⭐⭐ |
 
-Blockchain Development
-├─ Smart Contracts
-│  ├─ Solidity
-│  └─ Web3.js
-├─ Frameworks
-│  ├─ Hardhat
-│  └─ OpenZeppelin
-└─ DeFi Development
-   ├─ Token Standards
-   └─ DeFi Protocols
-```
+#### Blockchain Development
+| Technology | Expertise Level |
+|------------|----------------|
+| Solidity | ⭐⭐⭐⭐ |
+| Web3.js | ⭐⭐⭐⭐ |
+| Smart Contracts | ⭐⭐⭐⭐ |
+| DeFi Protocols | ⭐⭐⭐ |
+| Hardhat | ⭐⭐⭐⭐ |
 
-### 📊 Expertise Level
+---
 
-```
-═══════════════════════════════════════════
-  Technical Proficiency
-═══════════════════════════════════════════
-Backend Development
-▸ NestJS              [█████████░] 90%
-▸ Node.js             [████████░░] 80%
-▸ System Design       [████████░░] 80%
-▸ Database Design     [███████░░░] 70%
+### 🌟 Areas of Excellence
 
-Blockchain Development
-▸ Smart Contracts     [████████░░] 80%
-▸ Web3 Integration    [███████░░░] 70%
-▸ DeFi Protocols      [██████░░░░] 60%
-```
+| Backend | Blockchain |
+|---------|------------|
+| Microservices Architecture | Smart Contract Development |
+| API Design & Development | DeFi Protocol Implementation |
+| Database Optimization | Web3 Integration |
+| Real-time Systems | Token Standards |
+| System Scaling | Blockchain Security |
 
-### 🌱 Current Focus
+---
 
-```javascript
-const engineeringFocus = {
-    backend: {
-        current: "Building Scalable Microservices with NestJS",
-        improving: [
-            "System Architecture",
-            "Performance Optimization",
-            "Real-time Processing"
-        ]
-    },
-    blockchain: {
-        current: "DeFi Protocol Development",
-        exploring: [
-            "Layer 2 Solutions",
-            "Cross-chain Integration",
-            "Smart Contract Security"
-        ]
-    }
-};
-```
+### 🚀 Featured Projects
 
-### 🔍 Featured Projects
+| Project Type | Description | Technologies Used |
+|--------------|-------------|-------------------|
+| Backend Service | Scalable Microservices Architecture | NestJS, RabbitMQ, PostgreSQL |
+| Blockchain | DeFi Protocol Implementation | Solidity, Web3.js, Hardhat |
+| API Gateway | GraphQL Implementation | NestJS, GraphQL, Redis |
+| Smart Contracts | Token System Development | Solidity, OpenZeppelin |
 
-```
-════════════════════════════════════════════════════
-  Backend Projects                  Tech Stack Used
-════════════════════════════════════════════════════
-▸ Microservice Architecture     [NestJS, RabbitMQ]
-▸ Real-time Data Processing    [Node.js, Socket.IO]
-▸ API Gateway Implementation  [NestJS, GraphQL]
+---
 
-════════════════════════════════════════════════════
-  Blockchain Projects               Tech Stack Used
-════════════════════════════════════════════════════
-▸ DeFi Protocol                [Solidity, Web3.js]
-▸ Smart Contract System       [Hardhat, OpenZeppelin]
-```
+### 📈 Current Focus
 
-### 📫 Let's Connect
+| Area | Details |
+|------|---------|
+| Architecture | Building scalable microservices with NestJS |
+| Blockchain | Developing secure DeFi protocols |
+| Backend | Performance optimization and real-time processing |
+| Learning | Advanced system design patterns |
 
-```
-═══════════════════════════════
-  📧 samuelaleonomoh5@gmail.com
-═══════════════════════════════
-```
+---
+
+### 🛠 Development Approach
+
+| Principle | Implementation |
+|-----------|---------------|
+| Architecture | Clean, scalable, maintainable |
+| Security | Best practices, rigorous testing |
+| Performance | Optimized, efficient solutions |
+| Documentation | Comprehensive, clear, updated |
+
+---
+
+### 📫 Connect With Me
+
+| Channel | Link |
+|---------|------|
+| Email | samuelaleonomoh5@gmail.com |
 
 ---
 
 <div align="center">
 
-### 💡 Engineering Principles
+### 💫 Engineering Philosophy
 
-```
-Clean Architecture | Scalable Solutions | Security First
-```
-
-```
-Development Checklist:
-[√] Scalable Architecture
-[√] Secure Implementation
-[√] Optimized Performance
-[√] Comprehensive Testing
-[√] Clear Documentation
-```
+| Core Values | Commitment |
+|------------|------------|
+| Quality | Building robust, scalable systems |
+| Innovation | Exploring cutting-edge solutions |
+| Security | Maintaining highest security standards |
+| Efficiency | Optimizing for performance |
 
 ---
 
-> "Engineering excellence is not just about writing code, it's about building sustainable solutions." 
-
-⚡ Fun fact: Debugging is like being a detective in a crime movie where you're also the murderer!
+> "Building the bridge between traditional backends and blockchain technology"
 
 </div>
 
-<!-- Activity Graph -->
-```
-        Contribution Activity
-════════════════════════════════════
-█▁▂▃▅▂▇█▄▅▂▁▂▃▅▂▅█▄▃▂▁▂▃▅▂▇
-Jan                           Dec
-```
+---
 
 <div align="center">
 
-```
-═════════ Building Robust & Scalable Systems ═════════
-```
+*Available for innovative projects and technical discussions*
 
 </div>
